@@ -4,5 +4,3 @@ I believe that every great product is a culmination of Engineering + Design with
 
 - **Twitter**: [@Shivam15_](https://twitter.com/Shivam15_)
 - **LinkedIn**: [@shivamsingh15](https://www.linkedin.com/in/shivamsingh15/)
-
-![](https://komarev.com/ghpvc/?username=1502shivam-singh)
