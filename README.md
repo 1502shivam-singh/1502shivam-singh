@@ -1,7 +1,7 @@
 ## *Hello ⚡*<br/> 
 I'm Shivam Singh, Full-stack Engineer and Product Designer based out of India.
 
-Here, I keep a catalogue of my personal projects, implementation of concepts, and my contributions towards betterment of opensource software can be found.
+Here, I keep a catalogue of my personal projects, implementation of concepts, and my contributions towards betterment of opensource softwares maintaining a social vibe check.
 
 I believe that every great product is a culmination of smart engineering, functional design and art aesthetics which through continuous user feedback keeps whole business mileage of an idea in motion towards goal.
 
