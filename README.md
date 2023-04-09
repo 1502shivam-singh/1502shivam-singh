@@ -7,3 +7,6 @@ I believe that every great product is a culmination of smart engineering, functi
 
 - **Twitter**: [@Shivam15_](https://twitter.com/Shivam15_)
 - **LinkedIn**: [@shivamsingh15](https://www.linkedin.com/in/shivamsingh15/)
+- **Thoughts**: [Writings and explorations](https://github.com/1502shivam-singh/Thoughts...)
+
+Run it back, how about a *[Loopback](https://github.com/1502shivam-singh)*.
