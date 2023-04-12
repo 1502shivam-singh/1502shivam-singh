@@ -10,5 +10,3 @@ I believe that every great product is a culmination of smart engineering, functi
 - **Thoughts**: [Writings and explorations](https://github.com/1502shivam-singh/Thoughts...)
 
 Run it back, how about a *[Loopback](https://github.com/1502shivam-singh)*.
-
-![CoverLetter-PNG](https://user-images.githubusercontent.com/57267960/231584060-d8cdf114-7037-4e5c-9ae4-8d60d23d57d0.png)
